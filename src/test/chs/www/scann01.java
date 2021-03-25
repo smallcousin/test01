@@ -1,7 +1,7 @@
 package test.chs.www;
 
 import java.util.Arrays;
-import java.util.Scanner;
+
 
 public class scann01 {
     public static void main(String[] args) {
